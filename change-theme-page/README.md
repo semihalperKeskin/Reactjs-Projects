@@ -18,3 +18,9 @@ Uygulamanızı yayınlamak için [Netlify](https://www.netlify.com/)'ı kullanab
 - [Bu](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) adımları izleyin.
 - Sizin için bir web sitesi oluşturacaktır.
 - Bu bağlantıyı reponuzun README.md'sinde paylaşın.
+
+
+This is the Netlify link : https://62c8924ad201fe090a39244f--luxury-llama-09c11b.netlify.app
+
+
+https://user-images.githubusercontent.com/84216690/178064824-930548a7-4812-42e0-adf4-b688c542ffe6.mp4
