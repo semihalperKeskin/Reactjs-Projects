@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+
+/* light theme */
+body.Light {
+  background-color: #FEFBF3;
+  color: black;
+}
+body.Light .navbar{
+  background-color: #79B4B7;
+  color: black;
+}
+body.Light .table{
+  color: black;
+}
+body.Light .btn{
+  color: black;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+body.Light table tr:nth-child(odd) {
+  background-color: #F7ECDE;
+}
+
+
+
+/* Dark theme */
+body.Dark{
+  background-color: #2C3639;
+  color: #fff;
+}
+body.Dark .navbar{
+  background-color: #A27B5C;
+  color: #FBF7F0;
+}
+body.Dark .table{
+  color: #DCD7C9;
+}
+body.Dark .btn{
+  color: #fff;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+body.Dark table tr:nth-child(odd) {
+  background-color: #3F4E4F;
+}
+
+
+.switcher{
+  display: flex;
+  align-items: center;
+  width: 100px;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.table {
+  font-family: 'Orbitron', sans-serif;
+}
+.navbar {
+  font-family: 'Itim', cursive;
+  font-size: 20px;
+  font-weight: 500;
+}
